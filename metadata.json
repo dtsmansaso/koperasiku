@@ -1,0 +1,6 @@
+{
+  "name": "Koperasi SMAN 1 Soko",
+  "description": "Sistem Informasi Koperasi Simpan Pinjam SMAN 1 Soko untuk pencatatan anggota, transaksi harian, pembagian SHU, honorarium pengurus, laporan RAT, dan otomatisasi sinkronisasi Google Sheets / Apps Script.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
